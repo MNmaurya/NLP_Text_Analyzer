@@ -1,6 +1,6 @@
 # NLP Text Analyzer
 
-## Overview
+## Overview 
 
 This project implements the fundamental Natural Language Processing (NLP) preprocessing pipeline using Python.
 
