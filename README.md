@@ -11,7 +11,7 @@ The objective is to understand how text is cleaned and prepared before applying 
 ## Features
 
 - Convert text to lowercase
-- Remove punctuation
+- Remove punctuation 
 - Tokenization (Coming Soon)
 - Stopword Removal (Coming Soon)
 - Stemming (Coming Soon)
