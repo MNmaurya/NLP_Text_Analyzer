@@ -8,7 +8,7 @@ The objective is to understand how text is cleaned and prepared before applying 
 
 ---
 
-## Features
+## Features 
 
 - Convert text to lowercase
 - Remove punctuation
