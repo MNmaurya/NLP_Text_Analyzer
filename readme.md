@@ -15,7 +15,7 @@ The objective is to understand how text is cleaned and prepared before applying 
 - Tokenization (Coming Soon)
 - Stopword Removal (Coming Soon)
 - Stemming (Coming Soon)
-- Lemmatization (Coming Soon)
+- Lemmatization (Coming Soon) 
 - POS Tagging (Coming Soon)
 - Named Entity Recognition (Coming Soon)
 - Text Statistics (Coming Soon)
