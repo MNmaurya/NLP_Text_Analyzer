@@ -5,10 +5,10 @@
 This project implements the fundamental Natural Language Processing (NLP) preprocessing pipeline using Python.
  
 The objective is to understand how text is cleaned and prepared before applying machine learning or deep learning models.
-
+   
 ---
  
-## Features 
+## Feature
 
 - Convert text to lowercase
 - Remove punctuation
